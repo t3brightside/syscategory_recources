@@ -20,7 +20,7 @@ Adds this two fields and that's it.
  - From TER: **syscategory_resources**, or composer: **t3brightside/syscategory_resources**
  - FE implantation you got to do by yourself
 
-## An example TypoScript for pages
+## Data processing example
 ```typoscript
 page = PAGE
 page {
@@ -69,8 +69,8 @@ page {
 }  
 ```
 
-## An example fluid template
-This one shows list of categories with the image with the fallback to the parent category image 
+## Template example
+This one shows list of categories with the image with the fallback to the parent category image
 ```XML
 <f:if condition="{categories}">
     <f:for each="{categories}" as="category" iteration="iterator">
