@@ -1,0 +1,20 @@
+{
+  "name": "t3brightside/syscategory_resources",
+  "description": "Adds images and files field to sys_category",
+  "type": "typo3-cms-extension",
+  "version": "0.0.1",
+  "keywords": ["TYPO3", "extension", "list", "teaser", "pageteaser"],
+  "homepage": "https://github.com/t3brightside/sys_category_resources/",
+  "license": "GPL-3.0+",
+  "authors": [
+      {
+          "name": "Tanel Põld",
+          "role": "Developer",
+          "email": "info@t3brightside.com",
+          "homepage": "https://t3brightside.com"
+      }
+  ],
+  "require": {
+    "typo3/cms-core": "^10.4"
+  }
+}

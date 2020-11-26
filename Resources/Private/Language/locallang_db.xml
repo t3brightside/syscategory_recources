@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels and descriptions for database tables/fields belonging to extension 'sys_category_resources'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+
+			<label index="syscategory_resources.title">System Category Resources</label>
+			<label index="syscategory_resources.description">Adds images and files field to sys_category records</label>
+
+		</languageKey>
+	</data>
+</T3locallang>
