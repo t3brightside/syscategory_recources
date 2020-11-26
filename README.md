@@ -3,22 +3,19 @@
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](LICENSE)
 [![Brightside](https://img.shields.io/badge/by-t3brightside.com-orange.svg?style=flat)](https://t3brightside.com)
 
-**TYPO3 CMS extension that adds image and files option for system categories.**
+**TYPO3 CMS extension that adds images and files option for system categories.**
 
-Adds this two fields and that's it.
+Adds new 'Resources' tab and this two fields in it – that's it.
 
 ## System requirements
 
 - TYPO3 10.4 LTS
 
-## Features
-
-- Adds 'Resources' tab to sys_category records with images and files field
-
 ## Installation
 
+Coming soon...for now available from Github.
  - From TER: **syscategory_resources**, or composer: **t3brightside/syscategory_resources**
- - FE implantation you got to do by yourself
+ - FE implantation you got to do by yourself but check out examples below...
 
 ## Data processing example
 ```typoscript
