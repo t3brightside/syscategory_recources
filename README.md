@@ -18,7 +18,7 @@ Coming soon...for now available from Github.
  - FE implantation you got to do by yourself but check out examples below...
 
 ## Data processing example
-Please note your sys_categories have to be in the same site root.
+Please note! your sys_categories have to be in the same site root. Didn't seem to matter in TYPO3 9.5 but does in 10.4.
 ```typoscript
 page = PAGE
 page {
