@@ -18,6 +18,7 @@ Coming soon...for now available from Github.
  - FE implantation you got to do by yourself but check out examples below...
 
 ## Data processing example
+Please note your sys_categories have to be in the same site root.
 ```typoscript
 page = PAGE
 page {
